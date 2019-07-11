@@ -1,0 +1,37 @@
+body{
+
+}
+
+h1{
+  text-align: center;
+}
+.recipeList{
+  background-color: grey;
+  width: 40%;
+  display: block;
+  margin: auto;
+  border-radius: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+}
+.recipeList p{
+  color:white;
+}
+.popupRecipe{
+  width: 600px;
+  background: #fff;
+  display: none;
+  position: absolute;
+  top:10%;
+  margin-left: 33%;
+  border-radius: 12px;
+}
+
+.popupRecipe h4,p{
+  text-align: center;
+}
+
+#img{
+  text-align: center;
+}
